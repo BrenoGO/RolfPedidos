@@ -1,0 +1,10 @@
+export const MODIFICA_ID = 'modifica_id';
+export const MODIFICA_SENHA = 'senha';
+export const LOADING_AUTH = 'loading_auth';
+export const LOGIN_OK = 'login_ok';
+export const ERRO_NA_AUTH = 'erro_na_auth';
+export const SINCRONIZANDO = 'sincronizando';
+export const END_SYNC = 'end_sync';
+export const ERROR_SYNC = 'error_sync';
+export const SET_PRODS = 'set_prods';
+export const CHANGE_NEW_PICS = 'change_new_pics';

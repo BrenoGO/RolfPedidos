@@ -1,0 +1,18 @@
+configurando o redux
+
+react-native-offline
+
+fluxo para sincronização.
+ok-1) atualizar tabela de dados dos produtos p pedido
+ok-2) imagens das fotos dos produtos
+3) imagens das cores disponíveis
+	Como:
+	
+4) pedidos que estão no SQLite pra servidor
+5) clientes...
+
+Telas: 
+1) Pedidos
+2) Produtos
+3) Clientes
+4) Configurações
